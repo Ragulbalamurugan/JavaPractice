@@ -1,0 +1,8 @@
+public class Children {
+public static void main(String[] args){
+
+Par2 parent = new Par2();
+parent.add();
+
+}
+}

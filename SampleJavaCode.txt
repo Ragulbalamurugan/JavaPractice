@@ -1,0 +1,6 @@
+public class SampleJavaCode {
+public static void main(String args[]){
+
+System.out.println("Hi buddy good morning, have a nice day");
+}
+}
